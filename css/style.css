@@ -6,6 +6,7 @@
 body {
   max-width: 1440px;
   margin: 0 auto;
+  font-size: 1.6rem;
 }
 
 /* =========== CABEÇALHO ===========*/
@@ -167,6 +168,10 @@ body {
   left: 50%;
 }
 
+/* =========== RODAPE =========== */
+
+
+
 .rodape {
   background: url("../images/fundo-rodape.svg") center center no-repeat;
   background-size: cover;
@@ -211,3 +216,5 @@ body {
 .rodape .conteudo-de-baixo {
   margin-top: 40px;
 }
+
+
